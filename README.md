@@ -13,7 +13,6 @@ This repository demonstrates my manual QA testing skills by creating professiona
 
 ## Tested Feature
 - Login
-- Dashboard
 
 ## Test Artifacts
 - Test Plan
