@@ -13,6 +13,7 @@ This repository demonstrates my manual QA testing skills by creating professiona
 
 ## Tested Feature
 - Login
+- Dashboard
 
 ## Test Artifacts
 - Test Plan
@@ -28,4 +29,4 @@ This repository demonstrates my manual QA testing skills by creating professiona
 - Chrome DevTools
 
 ## Status
-Completed
+Ongoing
