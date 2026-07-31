@@ -28,4 +28,4 @@ This repository demonstrates my manual QA testing skills by creating professiona
 - Chrome DevTools
 
 ## Status
-Ongoing
+Completed
